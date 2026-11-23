@@ -1,5 +1,32 @@
-# Flappy-Bird
+## Flappy-Bird-Pink
 Jogo 2D em linguagem C++, ultizizando biblioteca Raylib.
+<img width="473" height="654" alt="image" src="https://github.com/user-attachments/assets/29cb24c0-153e-41de-9783-e7d142bc9a93" />
+
+##Integrantes 
+Luiza Maria Ribeiro Barbosa - RA: 26038023
+Sofia Real Prado Coraiola Fontes - RA: 26044823
+
+## Compilar no Windows
+
+Com MinGW e raylib configurados:
+
+```powershell
+cmake -S . -B build -G "Ninja"
+cmake --build build
+```
+
+Executar:
+Apertar F5
+
+
+##Como jogar
+- O controle do jogo é feito pelo click do mouse ou pela tecla ESPAÇO .
+- O objetivo é passar ao máximo pelos canos sem bater.
+
+
+##Uso da IA
+- Ultilizamos para o código bruto
+- Auxílio na ataualização do código quando ele não estava rodando.
 
 ## Estrutura
 
@@ -32,17 +59,3 @@ A dificuldade aumenta gradualmente com a pontuacao:
 - Aos poucos aparecem sombras e bordas escuras.
 - A tela de morte mantem uma lapide, cova, passaro com olhos em X e laço rasgado.
 
-## Compilar no Windows
-
-Com MinGW e raylib configurados:
-
-```powershell
-cmake -S . -B build -G "Ninja"
-cmake --build build
-```
-
-Executar:
-
-```powershell
-.\build\flappy_lululinda.exe
-```

@@ -1,6 +1,10 @@
 ## Flappy-Bird-Pink
 Jogo 2D em linguagem C++, ultizizando biblioteca Raylib.
+
+
 <img width="473" height="654" alt="image" src="https://github.com/user-attachments/assets/29cb24c0-153e-41de-9783-e7d142bc9a93" />
+
+
 
 ##Integrantes 
 Luiza Maria Ribeiro Barbosa - RA: 26038023

@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/lulum/Downloads/flppy lululinda/build",
+  "command": "C:\\raylib\\w64devkit\\bin\\g++.exe -I\"C:/Users/lulum/Downloads/flppy lululinda/include\" -std=c++17 -o CMakeFiles\\flappy_lululinda.dir\\src\\main.cpp.obj -c \"C:\\Users\\lulum\\Downloads\\flppy lululinda\\src\\main.cpp\"",
+  "file": "C:/Users/lulum/Downloads/flppy lululinda/src/main.cpp",
+  "output": "C:/Users/lulum/Downloads/flppy lululinda/build/CMakeFiles/flappy_lululinda.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/lulum/Downloads/flppy lululinda/build",
+  "command": "C:\\raylib\\w64devkit\\bin\\g++.exe -I\"C:/Users/lulum/Downloads/flppy lululinda/include\" -std=c++17 -o CMakeFiles\\flappy_lululinda.dir\\src\\audio_manager.cpp.obj -c \"C:\\Users\\lulum\\Downloads\\flppy lululinda\\src\\audio_manager.cpp\"",
+  "file": "C:/Users/lulum/Downloads/flppy lululinda/src/audio_manager.cpp",
+  "output": "C:/Users/lulum/Downloads/flppy lululinda/build/CMakeFiles/flappy_lululinda.dir/src/audio_manager.cpp.obj"
+},
+{
+  "directory": "C:/Users/lulum/Downloads/flppy lululinda/build",
+  "command": "C:\\raylib\\w64devkit\\bin\\g++.exe -I\"C:/Users/lulum/Downloads/flppy lululinda/include\" -std=c++17 -o CMakeFiles\\flappy_lululinda.dir\\src\\game.cpp.obj -c \"C:\\Users\\lulum\\Downloads\\flppy lululinda\\src\\game.cpp\"",
+  "file": "C:/Users/lulum/Downloads/flppy lululinda/src/game.cpp",
+  "output": "C:/Users/lulum/Downloads/flppy lululinda/build/CMakeFiles/flappy_lululinda.dir/src/game.cpp.obj"
+},
+{
+  "directory": "C:/Users/lulum/Downloads/flppy lululinda/build",
+  "command": "C:\\raylib\\w64devkit\\bin\\g++.exe -I\"C:/Users/lulum/Downloads/flppy lululinda/include\" -std=c++17 -o CMakeFiles\\flappy_lululinda.dir\\src\\renderer.cpp.obj -c \"C:\\Users\\lulum\\Downloads\\flppy lululinda\\src\\renderer.cpp\"",
+  "file": "C:/Users/lulum/Downloads/flppy lululinda/src/renderer.cpp",
+  "output": "C:/Users/lulum/Downloads/flppy lululinda/build/CMakeFiles/flappy_lululinda.dir/src/renderer.cpp.obj"
+}
+]

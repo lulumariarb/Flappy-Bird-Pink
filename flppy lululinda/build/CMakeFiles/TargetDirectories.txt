@@ -1,0 +1,3 @@
+C:/Users/lulum/Downloads/flppy lululinda/build/CMakeFiles/flappy_lululinda.dir
+C:/Users/lulum/Downloads/flppy lululinda/build/CMakeFiles/edit_cache.dir
+C:/Users/lulum/Downloads/flppy lululinda/build/CMakeFiles/rebuild_cache.dir
